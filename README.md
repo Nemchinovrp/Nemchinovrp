@@ -21,7 +21,6 @@
 
 <br></br> 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemchinovrp&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Nemchinovrp/github-readme-stats)
 
 
