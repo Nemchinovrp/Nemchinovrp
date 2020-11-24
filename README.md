@@ -1,4 +1,4 @@
-### Hi there, I'm Romam  👋
+### Hi there, I'm Roman  👋
 
 ### Connect with me:
 
