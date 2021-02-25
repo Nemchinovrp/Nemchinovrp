@@ -1,6 +1,5 @@
 ### Hi there, I'm Roman  👋
 
-</br>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | Python
@@ -15,10 +14,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemchinovrp&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Nemchinovrp/github-readme-stats)
-
-
-[instagram]: https://www.instagram.com/nemchinjava/
-[linkedin]: https://www.linkedin.com/in/roman-nemchinov-55a34473
 
 
 ⭐️ From [Nemchinovrp](https://github.com/Nemchinovrp)
