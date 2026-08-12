@@ -55,14 +55,6 @@ My repositories are a mix of practical projects, experiments, and notes collecte
 | [SpringPetClinicPracticeMentoring](https://github.com/Nemchinovrp/SpringPetClinicPracticeMentoring) | Spring practice and mentoring project | Java · Spring |
 | [AiTgBot](https://github.com/Nemchinovrp/AiTgBot) | Telegram bot experiments with AI integrations | Python |
 
-## GitHub at a glance
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nemchinovrp&show_icons=true&hide_border=true&theme=transparent" alt="Roman's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemchinovrp&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
-
-</div>
 
 ---
 
