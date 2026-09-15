@@ -4,7 +4,7 @@
 
 ### Backend developer · Homelab enthusiast · Open-source explorer
 
-I build backend services, Telegram bots, automation tools, and self-hosted infrastructure.
+I build backend services, Telegram bots, and tools for market data, video streaming, and self-hosted infrastructure.
 My repositories are a mix of practical projects, experiments, and notes collected while learning new technologies.
 
 [![Profile](https://img.shields.io/badge/GitHub-Nemchinovrp-181717?style=for-the-badge&logo=github)](https://github.com/Nemchinovrp)
@@ -15,9 +15,10 @@ My repositories are a mix of practical projects, experiments, and notes collecte
 ## About me
 
 - 🔭 Working with backend systems, integrations, and infrastructure
+- 🦀 Building FerrumView in Rust and TradeGoPilot in Go
 - 🏠 Running a homelab with Kubernetes, Home Assistant, OpenWrt, Jellyfin, and self-hosted services
 - 🤖 Building Telegram bots and small automation tools
-- 🌱 Exploring Go, Python, networking, and modern DevOps practices
+- 🌱 Exploring Rust, Go, networking, and modern DevOps practices
 - 🧰 Long-time Java and Spring ecosystem user
 
 ## Tech toolbox
@@ -27,6 +28,7 @@ My repositories are a mix of practical projects, experiments, and notes collecte
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
@@ -49,12 +51,15 @@ My repositories are a mix of practical projects, experiments, and notes collecte
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Homelab](https://github.com/Nemchinovrp/Homelab) | Scripts and notes for Kubernetes, Home Assistant, OpenWrt, Jellyfin, networking, and other self-hosted services | Python · Linux · Kubernetes |
-| [SpringVpnTgBot](https://github.com/Nemchinovrp/SpringVpnTgBot) | Telegram bot project for VPN-related automation | Python |
-| [GoHtmxApp](https://github.com/Nemchinovrp/GoHtmxApp) | An experiment with Go and HTMX | Go · HTMX |
+| [TradeGoPilot](https://github.com/Nemchinovrp/TradeGoPilot) | Local dashboard for SBER order books, trades, and order-flow signals via T-Invest API | Go · gRPC · JavaScript |
+| [FerrumView](https://github.com/Nemchinovrp/FerrumView) | Browser viewer for multiple HLS camera streams, with FFmpeg relay and automatic reconnection | Rust · Axum · FFmpeg · Docker |
+| [Homelab](https://github.com/Nemchinovrp/Homelab) | Scripts for my homelab and self-hosted infrastructure | Python · Linux |
+| [AiTgBot](https://github.com/Nemchinovrp/AiTgBot) | Telegram bot with Mistral AI integration | Python · Mistral AI |
+| [SpringVpnTgBot](https://github.com/Nemchinovrp/SpringVpnTgBot) | API for the SpringVpnBot Telegram bot | Python |
+| [GoHtmxApp](https://github.com/Nemchinovrp/GoHtmxApp) | Hardware monitoring example with live updates over WebSockets | Go · HTMX · WebSockets |
 | [SpringPetClinicPracticeMentoring](https://github.com/Nemchinovrp/SpringPetClinicPracticeMentoring) | Spring practice and mentoring project | Java · Spring |
-| [AiTgBot](https://github.com/Nemchinovrp/AiTgBot) | Telegram bot experiments with AI integrations | Python |
 
+[Browse all repositories →](https://github.com/Nemchinovrp?tab=repositories)
 
 ---
 
